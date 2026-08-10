@@ -19,6 +19,14 @@ I am a detail-oriented cybersecurity professional with strong critical thinking 
 | 7 | [Automate Cybersecurity Tasks with Python](./Course-07_Automate-Cybersecurity-Tasks-with-Python/) | File Update Algorithm |
 | 8 | [Put It to Work: Prepare for Cybersecurity Jobs](./Course-08_Put-It-to-Work_Prepare-for-Cybersecurity-Jobs/) | Resume |
 
+## Certificates
+
+The certificate files are now included in the repository and linked below for easy viewing:
+
+- [Foundations of Cybersecurity Certificate](./Course-01_Foundations-of-Cybersecurity/Course%20Certification/Coursera%20O9PQPYJY3Y5O.pdf)
+- [Play It Safe: Manage Security Risks Certificate](./Course-02_Play-It-Safe_Manage-Security-Risks/Course%20Certification/Coursera%204IYPBAKEXRX0%20(1).pdf)
+- [Certificate Index](./certificates/README.md)
+
 ## Skills Demonstrated
 
 - **Security Frameworks & Controls**: NIST CSF, NIST RMF, CIA Triad, OWASP
