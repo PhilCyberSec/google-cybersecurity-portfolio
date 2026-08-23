@@ -1,5 +1,9 @@
 # Google Cybersecurity Certificate Portfolio
 
+This repository contains all portfolio activities completed as part of the Coursera Google Cybersecurity Professional Certificate program.
+
+> Note: This project is my portfolio for the Coursera Google Cybersecurity certification.
+
 This repository contains all portfolio activities completed as part of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on Coursera.
 
 ## About Me
@@ -18,6 +22,12 @@ I am a detail-oriented cybersecurity professional with strong critical thinking 
 | 6 | [Sound the Alarm: Detection and Response](./Course-06_Sound-the-Alarm_Detection-and-Response/) | Incident Handler's Journal & Packet Analysis |
 | 7 | [Automate Cybersecurity Tasks with Python](./Course-07_Automate-Cybersecurity-Tasks-with-Python/) | File Update Algorithm |
 | 8 | [Put It to Work: Prepare for Cybersecurity Jobs](./Course-08_Put-It-to-Work_Prepare-for-Cybersecurity-Jobs/) | Resume |
+
+## Portfolio Structure
+
+- `Course-01_Foundations-of-Cybersecurity/` through `Course-08_Put-It-to-Work_Prepare-for-Cybersecurity-Jobs/` contain each course's portfolio documents and supporting materials.
+- `assets/screenshots/` contains screenshot evidence organised by course.
+- `certificates/` contains certification files and the certificate index.
 
 ## Certificates
 

@@ -1,5 +1,7 @@
 # Course 04 – Tools of the Trade: Linux and SQL
 
+> Note: This course work is part of my portfolio for the Coursera Google Cybersecurity Professional Certificate.
+
 ## Overview
 
 This course provided hands-on experience with Linux and SQL — two essential tools for security analysts. Topics covered the Linux command line, file system navigation, user and permission management, and SQL queries for querying security-related databases.
@@ -18,6 +20,11 @@ This course provided hands-on experience with Linux and SQL — two essential to
 |----------|-------------|
 | [linux-file-permissions.md](./linux-file-permissions.md) | Document explaining how to examine and update file permissions in Linux |
 | [sql-filters.md](./sql-filters.md) | Demonstration of SQL queries used to filter and investigate security-related data |
+
+## Practical Activity Assets
+
+- [Screenshoot Home](./Screenshoot/README.md)
+- [Course 04 Screenshots](../assets/screenshots/Course-04/README.md)
 
 ## Skills Gained
 

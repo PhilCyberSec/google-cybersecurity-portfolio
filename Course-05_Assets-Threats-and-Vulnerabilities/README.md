@@ -1,5 +1,7 @@
 # Course 05 – Assets, Threats, and Vulnerabilities
 
+> Note: This course work is part of my portfolio for the Coursera Google Cybersecurity Professional Certificate.
+
 ## Overview
 
 This course focused on the asset management lifecycle, identifying threats and vulnerabilities, and conducting vulnerability assessments. Topics included threat modelling, the PASTA framework, attack surface analysis, and the vulnerability management process.
@@ -13,7 +15,7 @@ This course focused on the asset management lifecycle, identifying threats and v
 - Encryption, hashing, and PKI fundamentals
 - The vulnerability management lifecycle
 
-## Portfolio Activity
+## Portfolio Activities
 
 | Document | Description |
 |----------|-------------|
