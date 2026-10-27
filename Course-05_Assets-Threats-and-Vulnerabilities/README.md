@@ -19,7 +19,9 @@ This course focused on the asset management lifecycle, identifying threats and v
 
 | Document | Description |
 |----------|-------------|
-| [vulnerability-assessment-report.md](./vulnerability-assessment-report.md) | Vulnerability assessment report for a fictional organisation's database server |
+| [Vulnerability Assessment Report (Markdown)](./vulnerability-assessment-report.md) | Essential markdown version of the scenario and report requirements |
+| [PASTA Threat Modeling (Markdown)](./pasta-threat-modeling.md) | Essential markdown version of the PASTA activity, including objectives, risks, vulnerabilities, and controls |
+| [Vulnerability Assessment Report Exemplar](./Vulnerability%20assessment%20report%20exemplar.pdf) | Completed example for comparison with the student activity |
 
 ## Skills Gained
 
