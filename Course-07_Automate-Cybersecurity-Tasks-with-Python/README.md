@@ -18,6 +18,7 @@ This course introduced Python programming in the context of cybersecurity. Topic
 | Document | Description |
 |----------|-------------|
 | [course-07-python-security-automation.md](./course-07-python-security-automation.md) | Combined summary of the Python automation and regular-expression labs for this course |
+| [python-notebook-summary.md](./python-notebook-summary.md) | Combined summary of all Python notebook exercises in the Course 07 lab set |
 | [update-file-algorithm.py](./update-file-algorithm.py) | Python script that reads an allow list, removes revoked IP addresses, and updates the file |
 | [update-file-algorithm.md](./update-file-algorithm.md) | Written explanation of the algorithm and how it works |
 
