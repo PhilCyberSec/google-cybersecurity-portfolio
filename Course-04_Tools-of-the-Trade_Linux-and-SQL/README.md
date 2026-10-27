@@ -1,34 +1,34 @@
 # Course 04 – Tools of the Trade: Linux and SQL
 
-> Note: This course work is part of my portfolio for the Coursera Google Cybersecurity Professional Certificate.
+> Note: This course work is part of my portfolio for the Google Cybersecurity Professional Certificate.
 
 ## Overview
 
-This course provided hands-on experience with Linux and SQL — two essential tools for security analysts. Topics covered the Linux command line, file system navigation, user and permission management, and SQL queries for querying security-related databases.
+This course introduced Linux and SQL as essential tools for security analysis. It covered command-line navigation, file permissions, and SQL queries used to investigate activity and identify suspicious patterns in system or database data.
 
 ## Key Topics
 
-- Linux operating system fundamentals
-- Navigating the file system using the command line (bash)
-- Managing file permissions and ownership (`chmod`, `chown`, `ls -la`)
-- SQL fundamentals: `SELECT`, `WHERE`, `JOIN`, `LIKE`, `AND`, `OR`, `NOT`
-- Filtering database queries to investigate security events
+- Linux command-line fundamentals
+- File system navigation and management
+- File permissions and least-privilege principles
+- SQL basics and filtering techniques
+- Investigating data for security-relevant events
 
 ## Portfolio Activities
 
 | Document | Description |
 |----------|-------------|
-| [linux-file-permissions.md](./linux-file-permissions.md) | Document explaining how to examine and update file permissions in Linux |
-| [sql-filters.md](./sql-filters.md) | Demonstration of SQL queries used to filter and investigate security-related data |
+| [linux-file-permissions.md](./linux-file-permissions.md) | Summary of Linux permissions review and update tasks |
+| [sql-filters.md](./sql-filters.md) | SQL queries used to filter and investigate security-related data |
 
 ## Practical Activity Assets
 
-- [Screenshoot Home](./Screenshoot/README.md)
-- [Course 04 Screenshots](../assets/screenshots/Course-04/README.md)
+- [Screenshoot Folder](./Screenshoot/README.md)
+- [Course 04 screenshot collection](./Screenshoot/README.md)
 
 ## Skills Gained
 
-- Navigating and managing the Linux file system
-- Applying and interpreting file permission settings
-- Writing SQL queries to filter and retrieve data
-- Investigating security events using database queries
+- Navigating and managing the Linux environment
+- Applying and reviewing file permissions
+- Writing SQL filters for investigation work
+- Extracting useful information from data using query logic

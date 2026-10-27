@@ -1,57 +1,52 @@
 # Google Cybersecurity Certificate Portfolio
 
-This repository contains all portfolio activities completed as part of the Coursera Google Cybersecurity Professional Certificate program.
-
-> Note: This project is my portfolio for the Coursera Google Cybersecurity certification.
-
-This repository contains all portfolio activities completed as part of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on Coursera.
+This repository contains the portfolio work completed as part of the Google Cybersecurity Professional Certificate on Coursera. It documents my hands-on learning across security operations, risk management, network security, Linux and SQL, vulnerability assessment, incident response, Python automation, and career preparation.
 
 ## About Me
 
-I am a detail-oriented cybersecurity professional with strong critical thinking and problem-solving abilities. I am passionate about detecting vulnerabilities and defending organizational assets against evolving threats, guided by a commitment to upholding security standards and protecting both people and infrastructure. My foundational IT knowledge and analytical mindset enable me to contribute meaningfully to security operations and help organizations maintain a robust defensive posture.
+I am a detail-oriented and motivated cybersecurity professional with a strong foundation in threat analysis, network security, and operational security. I enjoy translating technical findings into practical security improvements and documenting risks, controls, and remediation actions clearly and professionally.
 
-## Courses & Portfolio Activities
+## Courses and Portfolio Activities
 
-| # | Course | Portfolio Activity |
-|---|--------|-------------------|
-| 1 | [Foundations of Cybersecurity](./Course-01_Foundations-of-Cybersecurity/) | Professional Statement |
-| 2 | [Play It Safe: Manage Security Risks](./Course-02_Play-It-Safe_Manage-Security-Risks/) | Security Audit |
-| 3 | [Connect and Protect: Networks and Network Security](./Course-03_Connect-and-Protect_Networks-and-Network-Security/) | Network Structure & Security Analysis |
-| 4 | [Tools of the Trade: Linux and SQL](./Course-04_Tools-of-the-Trade_Linux-and-SQL/) | Linux File Permissions & SQL Filters |
-| 5 | [Assets, Threats, and Vulnerabilities](./Course-05_Assets-Threats-and-Vulnerabilities/) | Vulnerability Assessment Report |
-| 6 | [Sound the Alarm: Detection and Response](./Course-06_Sound-the-Alarm_Detection-and-Response/) | Incident Handler's Journal & Packet Analysis |
-| 7 | [Automate Cybersecurity Tasks with Python](./Course-07_Automate-Cybersecurity-Tasks-with-Python/) | File Update Algorithm |
-| 8 | [Put It to Work: Prepare for Cybersecurity Jobs](./Course-08_Put-It-to-Work_Prepare-for-Cybersecurity-Jobs/) | Resume |
+| # | Course | Portfolio Focus |
+|---|--------|------------------|
+| 1 | [Foundations of Cybersecurity](./Course-01_Foundations-of-Cybersecurity/) | Cybersecurity foundations, professional statement, and core concepts |
+| 2 | [Play It Safe: Manage Security Risks](./Course-02_Play-It-Safe_Manage-Security-Risks/) | Risk management, control assessments, and audit documentation |
+| 3 | [Connect and Protect: Networks and Network Security](./Course-03_Connect-and-Protect_Networks-and-Network-Security/) | Network architecture, secure design, and attack analysis |
+| 4 | [Tools of the Trade: Linux and SQL](./Course-04_Tools-of-the-Trade_Linux-and-SQL/) | Linux permissions, SQL filtering, and operational analysis |
+| 5 | [Assets, Threats, and Vulnerabilities](./Course-05_Assets-Threats-and-Vulnerabilities/) | Threat modeling, vulnerability assessment, and remediation planning |
+| 6 | [Sound the Alarm: Detection and Response](./Course-06_Sound-the-Alarm_Detection-and-Response/) | Incident response, packet analysis, and journaling |
+| 7 | [Automate Cybersecurity Tasks with Python](./Course-07_Automate-Cybersecurity-Tasks-with-Python/) | Python automation, regular expressions, and access-control scripting |
+| 8 | [Put It to Work: Prepare for Cybersecurity Jobs](./Course-08_Put-It-to-Work_Prepare-for-Cybersecurity-Jobs/) | Resume and career-readiness materials |
 
 ## Portfolio Structure
 
-- `Course-01_Foundations-of-Cybersecurity/` through `Course-08_Put-It-to-Work_Prepare-for-Cybersecurity-Jobs/` contain each course's portfolio documents and supporting materials.
-- `assets/screenshots/` contains screenshot evidence organised by course.
-- `certificates/` contains certification files and the certificate index.
+- Each course folder contains the related activities, documentation, and supporting files.
+- Markdown summaries were created to keep the portfolio readable while preserving the original source materials.
+- Certificate materials are stored under the [certificates folder](./certificates/README.md).
 
 ## Certificates
 
-The certificate files are now included in the repository and linked below for easy viewing:
-
+- [Certificates Index](./certificates/README.md)
 - [Foundations of Cybersecurity Certificate](./Course-01_Foundations-of-Cybersecurity/Course%20Certification/Coursera%20O9PQPYJY3Y5O.pdf)
 - [Play It Safe: Manage Security Risks Certificate](./Course-02_Play-It-Safe_Manage-Security-Risks/Course%20Certification/Coursera%204IYPBAKEXRX0%20(1).pdf)
-- [Certificate Index](./certificates/README.md)
 
 ## Skills Demonstrated
 
-- **Security Frameworks & Controls**: NIST CSF, NIST RMF, CIA Triad, OWASP
-- **Security Audits**: Controls assessment, compliance checklists
-- **Network Security**: TCP/IP, OSI model, firewall analysis, VPNs
-- **Linux & SQL**: Command-line operations, file permissions, database filtering
-- **Threat Analysis**: Asset management, threat modeling, vulnerability assessments
-- **Incident Response**: Incident handler's journal, Wireshark, tcpdump
-- **Python Automation**: Scripting for security tasks
-- **Communication**: Security reports, stakeholder documentation
+- Security frameworks and governance: NIST CSF, ISO 27001, CIA Triad
+- Risk and compliance assessments
+- Network security analysis and hardening
+- Linux administration and permission analysis
+- SQL-based investigation and filtering
+- Vulnerability assessment and remediation
+- Incident response and packet analysis
+- Python automation for security workflows
+- Professional communication and cybersecurity job preparation
 
-## Tools & Technologies
+## Tools and Technologies
 
-`Wireshark` `tcpdump` `Linux CLI` `SQL` `Python` `SIEM tools` `IDS/IPS`
+Wireshark, tcpdump, Linux CLI, SQL, Python, Git/GitHub, Nmap, Burp Suite, Metasploit, SIEM concepts, IDS/IPS
 
 ---
 
-> This portfolio is part of the Google Cybersecurity Professional Certificate program.
+This portfolio reflects hands-on work completed during the Google Cybersecurity Professional Certificate program.

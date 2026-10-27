@@ -2,27 +2,29 @@
 
 ## Overview
 
-This course focused on the detection and response phases of the security incident lifecycle. Topics included SIEM tools, IDS/IPS, packet analysis with Wireshark and tcpdump, log analysis, and documenting incidents using an incident handler's journal.
+This course focused on the detection and response phases of the security incident lifecycle. It emphasized monitoring, log analysis, packet inspection, and incident documentation.
 
 ## Key Topics
 
-- The incident response lifecycle (NIST SP 800-61)
-- Security Information and Event Management (SIEM) tools
-- Log analysis and parsing
+- Incident response lifecycle and escalation
+- Security information and event management concepts
 - Network traffic analysis with Wireshark and tcpdump
-- Intrusion Detection Systems (IDS): Suricata
-- Incident documentation and escalation
+- Log review and indicator-of-compromise identification
+- IDS/IPS and alerting fundamentals
+- Maintaining clear incident documentation
 
 ## Portfolio Activities
 
 | Document | Description |
 |----------|-------------|
-| [incident-handler-journal.md](./incident-handler-journal.md) | A journal documenting security incident investigations during the course |
-| [wireshark-tcpdump-analysis.md](./wireshark-tcpdump-analysis.md) | Analysis of network packets captured with Wireshark and tcpdump |
+| [incident-handler-journal.md](./incident-handler-journal.md) | Documentation of an investigation workflow and handling process |
+| [wireshark-tcpdump-analysis.md](./wireshark-tcpdump-analysis.md) | Analysis of network packets and suspicious traffic patterns |
+| [phishing-incident-playbook.md](./phishing-incident-playbook.md) | Summary of the phishing response workflow and escalation process |
+| [pyramid-of-pain-malware-analysis.md](./pyramid-of-pain-malware-analysis.md) | Markup summary of the malware and IOC analysis activity |
 
 ## Skills Gained
 
-- Analysing logs and network traffic for indicators of compromise
-- Using Wireshark and tcpdump to capture and inspect packets
-- Documenting incidents following professional standards
-- Applying the NIST incident response lifecycle
+- Reviewing logs and identifying suspicious behavior
+- Using Wireshark and tcpdump to inspect traffic
+- Documenting incidents in a structured format
+- Applying best practices for detection and response workflows

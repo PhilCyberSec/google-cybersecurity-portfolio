@@ -1,32 +1,32 @@
 # Course 05 – Assets, Threats, and Vulnerabilities
 
-> Note: This course work is part of my portfolio for the Coursera Google Cybersecurity Professional Certificate.
+> Note: This course work is part of my portfolio for the Google Cybersecurity Professional Certificate.
 
 ## Overview
 
-This course focused on the asset management lifecycle, identifying threats and vulnerabilities, and conducting vulnerability assessments. Topics included threat modelling, the PASTA framework, attack surface analysis, and the vulnerability management process.
+This course focused on identifying and evaluating assets, threats, and vulnerabilities. It introduced the risk assessment process and explained how security teams model threats and prioritize remediation actions.
 
 ## Key Topics
 
 - Asset classification and inventory
-- Security risk assessment: likelihood × impact
-- Threat modelling frameworks (PASTA, STRIDE)
-- Common vulnerabilities: misconfigurations, outdated software, weak credentials
-- Encryption, hashing, and PKI fundamentals
+- Threat modeling and attack surface analysis
+- Vulnerability identification and risk scoring
+- PASTA and related frameworks
+- Common weakness patterns and mitigation strategies
 - The vulnerability management lifecycle
 
 ## Portfolio Activities
 
 | Document | Description |
 |----------|-------------|
-| [Vulnerability Assessment Report (Markdown)](./vulnerability-assessment-report.md) | Essential markdown version of the scenario and report requirements |
-| [PASTA Threat Modeling (Markdown)](./pasta-threat-modeling.md) | Essential markdown version of the PASTA activity, including objectives, risks, vulnerabilities, and controls |
-| [Vulnerability Assessment Report Exemplar](./Vulnerability%20assessment%20report%20exemplar.pdf) | Completed example for comparison with the student activity |
+| [vulnerability-assessment-report.md](./vulnerability-assessment-report.md) | Essential markdown summary of the vulnerability assessment scenario and report structure |
+| [pasta-threat-modeling.md](./pasta-threat-modeling.md) | Concise markdown version of the PASTA threat modeling exercise |
+| [Vulnerability Assessment Report Exemplar](./Vulnerability%20assessment%20report%20exemplar.pdf) | Reference example for comparison and learning |
 
 ## Skills Gained
 
 - Identifying and classifying information assets
 - Conducting vulnerability assessments
-- Applying threat modelling methodologies
-- Writing formal vulnerability assessment reports
-- Recommending remediation strategies based on risk
+- Applying threat modeling methodologies
+- Writing structured risk and remediation recommendations
+- Evaluating security weaknesses and prioritizing corrective actions
