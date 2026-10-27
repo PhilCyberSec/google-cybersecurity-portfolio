@@ -1,76 +1,38 @@
-# [Your Name]
+ONUOHA PHILIP OGBONNA
 
-📍 [City, Country] &nbsp;|&nbsp; 📧 [your.email@example.com] &nbsp;|&nbsp; 🔗 [linkedin.com/in/yourprofile] &nbsp;|&nbsp; 💻 [github.com/philipsec]
++234 703 573 5216 | onuohaphilip333@gmail.com | Enugu State, Nigeria | LinkedIn
 
----
+PROFESSIONAL SUMMARY
 
-## Professional Summary
+Dedicated Information Technology graduate and Google Certified Cybersecurity Professional seeking a Cybersecurity Analyst position as Information/Cybersecurity Analyst. Possesses practical experience in threat analysis, vulnerability management, SOC operations, and software engineering, with a proven ability to protect valuable assets and ensure the reliability of mission-critical platforms.
 
-Detail-oriented and motivated cybersecurity professional with a strong foundation in security operations, network security, and threat detection. Skilled in Linux, SQL, Python scripting, and security information and event management (SIEM) tools. Passionate about detecting and defending against cyber threats and committed to upholding security standards that protect people and organizational assets. Currently completing the Google Cybersecurity Professional Certificate.
+CORE COMPETENCIES
 
----
+Cybersecurity & GRC: SOC Operations, SIEM Monitoring, Penetration Testing, VAPT, Incident Response, OWASP Top 10, Access Control, ISO 27001, NIST CSF.
 
-## Skills
+Tools & Technologies: Kali Linux, Nmap, Burp Suite, Metasploit, Git/GitHub.
 
-| Technical Skills | Tools & Technologies |
-|-----------------|---------------------|
-| Network security & traffic analysis | Wireshark, tcpdump |
-| Security auditing & compliance | NIST CSF, NIST RMF, PCI DSS, GDPR |
-| Linux command-line & file management | Bash, chmod, Ubuntu |
-| SQL database querying & filtering | MySQL / MariaDB |
-| Python scripting for automation | Python 3 |
-| SIEM & log analysis | Chronicle, Splunk (fundamentals) |
-| Vulnerability assessment & reporting | NIST SP 800-30 |
-| Incident detection & response | IDS/IPS, Suricata |
+Networking & IT Ops: LAN/WAN Architecture, Network Protocols, Telecommunications Technology, Technical Support, Service Monitoring.
 
----
+Development & Databases: Python, JavaScript/Node.js, Java, SQL, Relational Database Management.
 
-## Certifications
+PROFESSIONAL EXPERIENCE
 
-| Certification | Issuer | Date |
-|---------------|--------|------|
-| Google Cybersecurity Professional Certificate | Google / Coursera | In Progress (2026) |
-| [Any other certifications, e.g., CompTIA IT Fundamentals] | [Issuer] | [Date] |
+Cybersecurity Intern | TS Academy | Feb 2026 – Jul 2026
 
----
+- Completed hands-on training in SOC operations, threat detection, and incident response, performing log analysis and continuous monitoring using SIEM tools.
+- Led an 8-person team on a capstone project simulating a legacy healthcare environment, producing a comprehensive, GRC-framed vulnerability assessment and penetration testing (VAPT) report.
+- Executed active penetration testing exercises against OWASP Top 10 vulnerabilities utilizing Kali Linux, Nmap, Burp Suite, and Metasploit.
 
-## Projects
+Software Engineering Intern (SIWES II) | Omney Payments Ltd (DBA Egobeke) | Jul 2024 – Jan 2025
 
-### Google Cybersecurity Portfolio
-**[github.com/philipsec/google-cybersecurity-portfolio](https://github.com/philipsec/google-cybersecurity-portfolio)**
+- Built and maintained web and backend features using Python, Node.js, and Java for a live fintech platform processing financial workflow.
+- Designed and queried SQL databases to support transaction records, ensuring the accuracy, reliability, and security of payment data.
+- Diagnosed and resolved technical issues for platform users, directly applying the customer-focused, service-quality standards expected in telecom and IT operations.
+- Collaborated within an engineering team using Git/GitHub for version control, structured code reviews, and deployments.
 
-A collection of hands-on projects completed as part of the Google Cybersecurity Certificate:
+EDUCATION & CERTIFICATIONS
 
-- **Security Audit:** Conducted an internal controls and compliance assessment for a fictional company against PCI DSS, GDPR, and SOC standards
-- **Network Analysis:** Applied the NIST CSF to analyse a simulated data breach and recommend security hardening measures
-- **Linux File Permissions:** Used command-line tools to audit and update file and directory permissions following least privilege principles
-- **SQL Filtering:** Wrote SQL queries to investigate login anomalies and filter employee records for targeted security updates
-- **Vulnerability Assessment:** Produced a formal vulnerability assessment report for a database server, including risk scoring and remediation strategy
-- **Incident Response:** Maintained an incident handler's journal documenting real-world security scenarios; analysed packet captures with Wireshark and tcpdump
-- **Python Automation:** Developed a Python script to automate the removal of revoked IP addresses from an access control allow list
+Bachelor of Technology (B.Tech) in Information Technology | Federal University of Technology, Owerri (FUTO) | Jun 2020 – Jul 2025
 
----
-
-## Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| [B.Tech / B.Sc] in [Information Technology / Computer Science] | [Your University] | [Year] |
-
----
-
-## Work Experience
-
-*[Add any relevant experience here — IT support, help desk, software development, internships, etc.]*
-
-**[Job Title]** — [Company Name] &nbsp;|&nbsp; [Start Date] – [End Date]
-- [Key responsibility or achievement relevant to cybersecurity]
-- [Key responsibility or achievement relevant to cybersecurity]
-
----
-
-## Additional
-
-- **Languages:** [e.g., English (fluent)]
-- **Availability:** [e.g., Immediately available / Open to remote and on-site roles]
-- **Interests:** Threat intelligence, SOC operations, ethical hacking, CTF competitions
+Google Cybersecurity Professional Certification | Coursera
